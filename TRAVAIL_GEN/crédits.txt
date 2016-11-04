@@ -1,0 +1,8 @@
+Travail Génération
+
+CRÉDITS
+
+Auteur: Michaud, Maxime
+Inspiration: ¨Correspondence¨ - Lee Ufan (1993)
+
+Logiciel: p5.js
